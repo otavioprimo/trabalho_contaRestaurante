@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Conta de Restaurante</string>
+    <string name="total_consumption_BR">Consumo Total:</string>
+    <string name="artistic_couvert_BR">Couvert Artístico:</string>
+    <string name="split_bill_BR">Dividir conta por:</string>
+    <string name="calculate_bill_BR">Calcular conta final</string>
+    <string name="service_charge_BR">Taxa de serviço(10%) R$:</string>
+    <string name="total_bill_BR">Conta total R$: </string>
+    <string name="value_per_person_BR">valor por pessoa R$: </string>
+    <string name="value_isempty_BR">Este campo deve ser preenchido </string>
+
+    <string name="app_name_EN">Bill</string>
+    <string name="total_consumption_EN">Total consumption:</string>
+    <string name="artistic_couvert_EN">Artistic Couvert:</string>
+    <string name="split_bill_EN">Split bill by:</string>
+    <string name="calculate_bill_EN">Calculate final bill</string>
+    <string name="service_charge_EN">Service charge(10%) R$:</string>
+    <string name="total_bill_EN">Total bill R$: </string>
+    <string name="value_per_person_EN">Value per person R$: </string>
+    <string name="value_isempty_EN">This field must be filled in </string>
+
+    <string name="app_name_ES">Cuenta de Restaurante</string>
+    <string name="total_consumption_ES">Consumo Total:</string>
+    <string name="artistic_couvert_ES">Couvert Artístico:</string>
+    <string name="split_bill_ES">Dividir cuenta por:</string>
+    <string name="calculate_bill_ES">Calcular la cuenta final</string>
+    <string name="service_charge_ES">Tasa de servicio(10%) R$:</string>
+    <string name="total_bill_ES">Cuenta total R$: </string>
+    <string name="value_per_person_ES">valor por pessoa R$: </string>
+    <string name="value_isempty_ES">Este campo debe rellenarses</string>
+</resources>
